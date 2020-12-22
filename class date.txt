@@ -1,0 +1,34 @@
+Batch 27 B -
+
+Divya
+Vinay
+
+Tools : 
+ 
+Linux
+Git
+Jenkins
+Ansible
+Chef
+Puppet
+Docker
+AWS
+Shell scripting was completed dec 2020
+
+only left with Vagrant and Nagios..
+
+
+
+Batch 28 B
+
+Benjimin
+Sreekar
+Manasa Reddy
+Praveen Kumar
+Sanjeev.
+
+Tools -
+
+Completed - Linux, AWS 
+
+Shell Scripting In dec 2020.
